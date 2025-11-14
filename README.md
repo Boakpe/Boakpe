@@ -19,13 +19,13 @@ I'm a Master's student at **UFLA** specializing in Artificial Intelligence. My r
 <p align="center">
   <strong>AI & Data Science</strong><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
   </a>
 </p>
 <p align="center">
   <strong>Backend & Web</strong><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,postgres,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,postgres,docker" />
   </a>
 </p>
 
